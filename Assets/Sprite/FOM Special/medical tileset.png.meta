@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: e5ecbd87640750e44b816807fdcd64fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7969075222728352356
+    second: medical tileset_0
+  - first:
+      213: 141125478778808725
+    second: medical tileset_1
+  - first:
+      213: 8424085429140885596
+    second: medical tileset_2
+  - first:
+      213: -3686177360879037961
+    second: medical tileset_3
+  - first:
+      213: 6972721257734723091
+    second: medical tileset_4
+  - first:
+      213: -4770428727020167788
+    second: medical tileset_5
+  - first:
+      213: -1880414113566740702
+    second: medical tileset_6
+  - first:
+      213: 6575772714013267688
+    second: medical tileset_7
+  - first:
+      213: -7679087603488150360
+    second: medical tileset_8
+  - first:
+      213: -4523748880742115053
+    second: medical tileset_9
+  - first:
+      213: -8940708201759743314
+    second: medical tileset_10
+  - first:
+      213: -4487725324315965742
+    second: medical tileset_11
+  - first:
+      213: -3950106602857953130
+    second: medical tileset_12
+  - first:
+      213: 1783845884062619391
+    second: medical tileset_13
+  - first:
+      213: -1034198704636346601
+    second: medical tileset_14
+  - first:
+      213: 337744854948292127
+    second: medical tileset_15
+  - first:
+      213: 5406673890786038934
+    second: medical tileset_16
+  - first:
+      213: 7611303622194235868
+    second: medical tileset_17
+  - first:
+      213: -1517714295048523377
+    second: medical tileset_18
+  - first:
+      213: -7935740725649179524
+    second: medical tileset_19
+  - first:
+      213: 8462127467706421426
+    second: medical tileset_20
+  - first:
+      213: -1475847309808367144
+    second: medical tileset_21
+  - first:
+      213: -4051726025703493366
+    second: medical tileset_22
+  - first:
+      213: -634858992991817546
+    second: medical tileset_23
+  - first:
+      213: -1311485711293692695
+    second: medical tileset_24
+  - first:
+      213: -1337376855915235653
+    second: medical tileset_25
+  - first:
+      213: 4139820276618242885
+    second: medical tileset_26
+  - first:
+      213: 1491269630992924531
+    second: medical tileset_27
+  - first:
+      213: -562033710494742363
+    second: medical tileset_28
+  - first:
+      213: 2032887844668150827
+    second: medical tileset_29
+  - first:
+      213: 1956866004289912646
+    second: medical tileset_30
+  - first:
+      213: -8124089534124998375
+    second: medical tileset_31
+  - first:
+      213: 2168594977059673728
+    second: medical tileset_32
+  - first:
+      213: 1059452765139963276
+    second: medical tileset_33
+  - first:
+      213: 8403873116460951508
+    second: medical tileset_34
+  - first:
+      213: 2018733763712532693
+    second: medical tileset_35
+  - first:
+      213: 6507515137721674408
+    second: medical tileset_36
+  - first:
+      213: 8325618416634804500
+    second: medical tileset_37
+  - first:
+      213: 8107548498457726423
+    second: medical tileset_38
+  - first:
+      213: 7295407394020395611
+    second: medical tileset_39
+  - first:
+      213: -6833034653387033749
+    second: medical tileset_40
+  - first:
+      213: -546802166027558973
+    second: medical tileset_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medical tileset_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462271f61b7d79e60800000000000000
+      internalID: 7969075222728352356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 274
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992e5f00e065f100800000000000000
+      internalID: 141125478778808725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509c79a01d58e470800000000000000
+      internalID: 8424085429140885596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 318
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d7b1783118dcc0800000000000000
+      internalID: -3686177360879037961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 275
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d7157a0514c060800000000000000
+      internalID: 6972721257734723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 303
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd4abf8580ccdb0800000000000000
+      internalID: -4770428727020167788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 322
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f293a935d67e5e0800000000000000
+      internalID: -1880414113566740702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 277
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e697768176d14b50800000000000000
+      internalID: 6575772714013267688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 226
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acabfa92866e6590800000000000000
+      internalID: -7679087603488150360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 226
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 51}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3199b4e5c5a6831c0800000000000000
+      internalID: -4523748880742115053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea260b9a2493ce380800000000000000
+      internalID: -8940708201759743314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 275
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d64f92389568b1c0800000000000000
+      internalID: -4487725324315965742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6980ab729f66e29c0800000000000000
+      internalID: -3950106602857953130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6589d516e71c810800000000000000
+      internalID: 1783845884062619391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 250
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3bfee1c9c5a1f0800000000000000
+      internalID: -1034198704636346601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 134
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16a8e7f729efa400800000000000000
+      internalID: 337744854948292127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945ea4024d580b40800000000000000
+      internalID: 5406673890786038934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 148
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd908866158c0a960800000000000000
+      internalID: 7611303622194235868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 117
+        width: 26
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81b91dc3eeffeae0800000000000000
+      internalID: -1517714295048523377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 117
+        width: 26
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c741afad59ed190800000000000000
+      internalID: -7935740725649179524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 183
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b097bcf8148f6570800000000000000
+      internalID: 8462127467706421426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 183
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9082ce0bcb48be0800000000000000
+      internalID: -1475847309808367144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 185
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01fcb685a065c7c0800000000000000
+      internalID: -4051726025703493366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 180
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b2480c178037f0800000000000000
+      internalID: -634858992991817546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 183
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4c652b1baaccde0800000000000000
+      internalID: -1311485711293692695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 160
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f754d5dea07de0800000000000000
+      internalID: -1337376855915235653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_26
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 182
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b2acd9b98937930800000000000000
+      internalID: 4139820276618242885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 183
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f39ab04dd02b410800000000000000
+      internalID: 1491269630992924531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_28
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 183
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a88a2e61514338f0800000000000000
+      internalID: -562033710494742363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 132
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2497a959b4463c10800000000000000
+      internalID: 2032887844668150827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 131
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ffcb2534f282b10800000000000000
+      internalID: 1956866004289912646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 130
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c20bac9f614f80800000000000000
+      internalID: -8124089534124998375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 130
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086965554a5681e10800000000000000
+      internalID: 2168594977059673728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 130
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d097a3daee3be00800000000000000
+      internalID: 1059452765139963276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 130
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d72c14e21e80a470800000000000000
+      internalID: 8403873116460951508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d04c2299abf30c10800000000000000
+      internalID: 2018733763712532693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa06a1a865f4a50800000000000000
+      internalID: 6507515137721674408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b7f2c6d98a8370800000000000000
+      internalID: 8325618416634804500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 323
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd03d9576cc38070800000000000000
+      internalID: 8107548498457726423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a08544f5e7e3560800000000000000
+      internalID: 7295407394020395611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637eea8f2f2c21a0800000000000000
+      internalID: -6833034653387033749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medical tileset_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 27
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf538bb35e5968f0800000000000000
+      internalID: -546802166027558973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7081c26b9b73ad4890a7328fca7a134
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medical tileset_0: 7969075222728352356
+      medical tileset_1: 141125478778808725
+      medical tileset_10: -8940708201759743314
+      medical tileset_11: -4487725324315965742
+      medical tileset_12: -3950106602857953130
+      medical tileset_13: 1783845884062619391
+      medical tileset_14: -1034198704636346601
+      medical tileset_15: 337744854948292127
+      medical tileset_16: 5406673890786038934
+      medical tileset_17: 7611303622194235868
+      medical tileset_18: -1517714295048523377
+      medical tileset_19: -7935740725649179524
+      medical tileset_2: 8424085429140885596
+      medical tileset_20: 8462127467706421426
+      medical tileset_21: -1475847309808367144
+      medical tileset_22: -4051726025703493366
+      medical tileset_23: -634858992991817546
+      medical tileset_24: -1311485711293692695
+      medical tileset_25: -1337376855915235653
+      medical tileset_26: 4139820276618242885
+      medical tileset_27: 1491269630992924531
+      medical tileset_28: -562033710494742363
+      medical tileset_29: 2032887844668150827
+      medical tileset_3: -3686177360879037961
+      medical tileset_30: 1956866004289912646
+      medical tileset_31: -8124089534124998375
+      medical tileset_32: 2168594977059673728
+      medical tileset_33: 1059452765139963276
+      medical tileset_34: 8403873116460951508
+      medical tileset_35: 2018733763712532693
+      medical tileset_36: 6507515137721674408
+      medical tileset_37: 8325618416634804500
+      medical tileset_38: 8107548498457726423
+      medical tileset_39: 7295407394020395611
+      medical tileset_4: 6972721257734723091
+      medical tileset_40: -6833034653387033749
+      medical tileset_41: -546802166027558973
+      medical tileset_5: -4770428727020167788
+      medical tileset_6: -1880414113566740702
+      medical tileset_7: 6575772714013267688
+      medical tileset_8: -7679087603488150360
+      medical tileset_9: -4523748880742115053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

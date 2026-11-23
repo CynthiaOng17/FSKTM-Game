@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 80b0f42486e45204e8fe5c006dcaac5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2575815558344410250
+    second: tilemap-characters_0
+  - first:
+      213: -5481721873124560896
+    second: tilemap-characters_1
+  - first:
+      213: 2617460313786165308
+    second: tilemap-characters_2
+  - first:
+      213: 6516465772312365866
+    second: tilemap-characters_3
+  - first:
+      213: 3512768220377552711
+    second: tilemap-characters_4
+  - first:
+      213: 8500696901291468754
+    second: tilemap-characters_5
+  - first:
+      213: 6781487153174853230
+    second: tilemap-characters_6
+  - first:
+      213: -130314303093482028
+    second: tilemap-characters_7
+  - first:
+      213: -2403015950268561003
+    second: tilemap-characters_8
+  - first:
+      213: -6389977300912007348
+    second: tilemap-characters_9
+  - first:
+      213: 3597243164276170072
+    second: tilemap-characters_10
+  - first:
+      213: -83062838920531469
+    second: tilemap-characters_11
+  - first:
+      213: -2086149939600825950
+    second: tilemap-characters_12
+  - first:
+      213: 3234976914829245477
+    second: tilemap-characters_13
+  - first:
+      213: 7748353994827393574
+    second: tilemap-characters_14
+  - first:
+      213: -6508935379096440509
+    second: tilemap-characters_15
+  - first:
+      213: 5045633275843709352
+    second: tilemap-characters_16
+  - first:
+      213: 5993343339409338977
+    second: tilemap-characters_17
+  - first:
+      213: 2237435577061808292
+    second: tilemap-characters_18
+  - first:
+      213: 839790076481726269
+    second: tilemap-characters_19
+  - first:
+      213: 6932156674784077170
+    second: tilemap-characters_20
+  - first:
+      213: -919147402843911431
+    second: tilemap-characters_21
+  - first:
+      213: -5852761910784654471
+    second: tilemap-characters_22
+  - first:
+      213: -8124106701877916027
+    second: tilemap-characters_23
+  - first:
+      213: -4714301717818512926
+    second: tilemap-characters_24
+  - first:
+      213: -539195165569948207
+    second: tilemap-characters_25
+  - first:
+      213: 3462340114270723745
+    second: tilemap-characters_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap-characters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840b026a922fb320800000000000000
+      internalID: 2575815558344410250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d18fdef2cb9922346a99af62d5caf9a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":224.0,"y":74.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tilemap-characters_0: 2575815558344410250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
